@@ -14,6 +14,32 @@
     text-align: center;
     font-size: xxx-large;
     padding-top: 80px;
+    color: white;
+}
+
+.containerAbout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.informationAbout{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;    
+}
+.titlesAbout{
+    color:  #d1d1e0;
+}
+.section1{
+    margin-right: 100px;
+}
+
+.hrefAbout{
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    margin-top: 10px;
+    color: black;
 }
 
 .Copyright{
@@ -26,3 +52,4 @@
 #numSeven{
     height: 30px;
 }
+
