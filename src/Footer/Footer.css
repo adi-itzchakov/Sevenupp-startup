@@ -1,0 +1,28 @@
+.footerContainer{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 5vw;
+    margin-left: 10px;
+    justify-content: space-between;
+}
+
+.slogan{
+    background-color: #3F19F9;
+    height: 60vh;
+    width: 45%;
+    text-align: center;
+    font-size: xxx-large;
+    padding-top: 80px;
+}
+
+.Copyright{
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    font-size: small;
+;}
+
+#numSeven{
+    height: 30px;
+}

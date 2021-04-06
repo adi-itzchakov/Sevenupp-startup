@@ -1,0 +1,23 @@
+.secondContainer{
+    height: 60vh;
+    background-color:  #f0f5f5;
+    padding-top: 20px;
+}
+.txt-mission{
+    margin-top:30px ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.questionTitle{
+    text-align: center;
+    font-size: xxx-large;
+}
+
+.txt-examples{
+    margin-top: 20px;
+    font-size:15px;
+    width: 100px;
+}
