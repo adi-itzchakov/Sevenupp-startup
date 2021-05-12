@@ -4,8 +4,17 @@ body,
 .firstContainer {
   height: 100%;
 }
-.welcome{
-  background-color: #DAFF00;
+
+#welcomeImg{
+    position: absolute;
+    width:100%;
+    z-index: -1;
+    left: 0;
+    height: 100%;
+    background-size: cover;
+}
+.buttomContainer{
+  margin-top: 200px;
 }
 
 .headTitle{
@@ -15,26 +24,26 @@ body,
 }
 
 .secondTitle{
-  text-align: center;
-  font-size: 30px;
+  text-align: start;
+  font-size: 20px;
 }
 
 .input-btn{
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: start;
   margin-top: 40px;
 }
 
 .txtInput{
   margin: 10px;
-  height: 50px;
+  height: 8vh;
   margin-top:1px;
-  width: 300px;
+  width: 20vw;
 }
 
 .btn-go{
-  height: 50px;
-  width: 90px;
+  height: 8vh;
+  width: 8vw;
 }
 

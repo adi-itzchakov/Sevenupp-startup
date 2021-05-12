@@ -4,6 +4,7 @@ import 'semantic-ui-css/semantic.min.css'
 import Navbar from './Navbar/Navbar.js';
 import FirstPart from './Components/Welcome.js';
 import SecondPart from './Components/Mission.js';
+import ThirdPart from './Components/DownloadApp.js';
 import Footer from './Footer/Footer.js';
 
 class App extends Component {
@@ -13,6 +14,7 @@ class App extends Component {
         <Navbar />
         <FirstPart />
         <SecondPart />
+        <ThirdPart />
         <Footer />
       </div>
     );

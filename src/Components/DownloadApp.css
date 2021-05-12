@@ -1,0 +1,22 @@
+.container-thirdPart{
+    background-color:  #23232C ;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.titleApp{
+    font-size:90px;
+}
+
+.Get-The-App{
+    width: 45vw;
+    height: auto;
+    font-size: large;
+}
+
+.ImgApp{
+    height: 60vh;
+    margin: 20px;
+}
