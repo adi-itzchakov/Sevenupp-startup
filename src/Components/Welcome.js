@@ -3,7 +3,7 @@ import { Button ,Input } from 'semantic-ui-react';
 import './Welcome.css';
 import WelcomeImg from '../Pictures/welcomeImg.png'
 
-class FirstPart extends Component {
+class FirstPart extends Component {    
     render() {
         return (
             <div className="firstContainer">

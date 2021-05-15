@@ -1,0 +1,10 @@
+.Sign-container{
+    text-align: center;
+}
+
+.textField{
+    display: flex;
+    flex-direction:column;
+    width: 70%;
+    margin-left: 15%;
+}
