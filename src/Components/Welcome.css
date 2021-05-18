@@ -34,17 +34,22 @@ body,
   flex-direction: row;
   justify-content: start;
   margin-top: 40px;
+  position:inherit;
+
+}
+.inputForm{
+  position: inherit;
 }
 
 .txtInput{
   margin: 10px;
   height: 8vh;
   margin-top:1px;
-  width: 20vw;
+  width: 15vw;
+  position:initial;
 }
 
 .btn-go{
   height: 8vh;
   width: 8vw;
 }
-
